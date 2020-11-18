@@ -15,7 +15,7 @@ In this figure, you can see  exactly all these characteristics:
 ![alt text](https://github.com/kvant666ubl/Remez-Filtering/blob/main/img/2.png?raw=true)
 
 ## Example
-Let's go to the root of the project repository, compiling and run ```FIR.c``` file:
+Let's go to the root of the project repository, compiling and run ```FIR-1.c``` file:
 
 ```$ gcc -o filter FIR-1.c -lm```
 
