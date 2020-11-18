@@ -8,7 +8,7 @@ We using an iteration procedure, a polynomial function ```Pn(x)``` is approximat
 
 
 ## Description
-From the file ```FIR.c``` we can get the number of koeficients, bandwidth deviation and stopband  deviation in dB. 
+From the file ```FIR-1.c``` we can get the number of koeficients, bandwidth deviation and stopband  deviation in dB. 
 Program prompts user to enter the ***filter type***, ***bandwidth*** and ***stopband*** value,  and ***normalized transition bandwidth***.
 
 In this figure, you can see  exactly all these characteristics:
