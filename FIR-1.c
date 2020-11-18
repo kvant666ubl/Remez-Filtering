@@ -37,7 +37,6 @@ int filterSpec () {
    int type;
    printf("Filter type: type <1> to define LP or type <2> to define BP: ");
    scanf("%d", &type);
-//    printf("\n");
 
    printf("Enter Bandwidth & Stopband ");
    printf("from 0.0 to 1.0.\n");
