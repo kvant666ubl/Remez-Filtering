@@ -47,3 +47,8 @@ Bandpass filter calculating...
     3.  Stopband  deviation in dB: 	40.000000
 
 ```
+
+## Matlab
+Design the BP-filter to see phase response in Filter-Design App:
+
+![alt text](https://github.com/kvant666ubl/Remez-Filtering/blob/main/img/FD-Matlab.png?raw=true)
